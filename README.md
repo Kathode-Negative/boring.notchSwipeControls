@@ -10,12 +10,6 @@
 <p align="center">
   <a title="Crowdin" target="_blank" href="https://crowdin.com/project/boring-notch"><img src="https://badges.crowdin.net/boring-notch/localized.svg"></a>
   <img src="https://github.com/TheBoredTeam/boring.notch/actions/workflows/cicd.yml/badge.svg" alt="TheBoringNotch Build & Test" style="margin-right: 10px;" />
-  <a href="https://discord.gg/c8JXA7qrPm">
-    <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/c8JXA7qrPm?style=flat" alt="Discord Badge" />
-  </a>
-  <a href="ttps://ko-fi.com/brandonhimpfen">
-    <img src="https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg" alt="Ko-Fi" />
-  </a>
 </p>
 
 <!--Welcome to **Boring.Notch**, the coolest way to make your MacBook's notch the star of the show! Forget about those boring status bars—our notch turns into a dynamic music control center, complete with a snazzy visualizer and all the music controls you need. It's like having a mini concert right at the top of your screen! -->
@@ -57,18 +51,9 @@ Say hello to **Boring Notch**, the coolest way to make your MacBook’s notch th
 > You only need to do this once.
 
 
-### Option 1: Download and Install Manually
-<a href="https://github.com/TheBoredTeam/boring.notch/releases/latest/download/boringNotch.dmg" target="_self"><img width="200" src="https://github.com/user-attachments/assets/e3179be1-8416-4b8a-b417-743e1ecc67d6" alt="Download for macOS" /></a>
+### Download the realease
 
 ---
-
-### Option 2: Install via Homebrew
-
-You can also install the app using [Homebrew](https://brew.sh):
-
-```bash
-brew install --cask TheBoredTeam/boring-notch/boring-notch --no-quarantine
-```
 
 ## Usage
 
@@ -87,6 +72,7 @@ brew install --cask TheBoredTeam/boring-notch/boring-notch --no-quarantine
 - [x] Shelf functionality with AirDrop 📚
 - [x] Notch sizing customization, finetuning on different display sizes 🖥️
 - [x] System HUD replacements (volume, brightness, backlight) 🎚️💡⌨️
+- [x] Playback Gesture Control
 - [ ] Bluetooth Live Activity (connect/disconnect for bluetooth devices) 
 - [ ] Weather integration ⛅️
 - [ ] Customizable Layout options 🛠️
@@ -128,10 +114,6 @@ brew install --cask TheBoredTeam/boring-notch/boring-notch --no-quarantine
 ## 🤝 Contributing
 
 We’re all about good vibes and awesome contributions! Read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how you can join the fun!
-
-## Join our Discord Server
-
-<a href="https://discord.gg/GvYcYpAKTu" target="_blank"><img src="https://iili.io/28m3GHv.png" alt="Join The Boring Server!" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Star History
 
