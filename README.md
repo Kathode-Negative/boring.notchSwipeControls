@@ -52,6 +52,7 @@ Say hello to **Boring Notch**, the coolest way to make your MacBook’s notch th
 
 
 ### Download the realease
+just go to the github releases and download the latest
 
 ---
 
